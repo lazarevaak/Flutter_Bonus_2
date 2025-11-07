@@ -1,0 +1,18 @@
+name: dart_async_coingecko_task
+description: A Dart assignment for learning async programming with CoinGecko API
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.5.0
+  dio: ^5.9.0
+  freezed_annotation: ^3.1.0
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  build_runner: ^2.9.0
+  freezed: ^3.2.3
+  json_serializable: ^6.11.1
