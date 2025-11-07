@@ -42,8 +42,6 @@ dart run task.dart
 ```
 #### Вывод:
 macboock@MacBook-Air dart-async-task % dart pub get
-
-# Запуск
 dart run task.dart
 Resolving dependencies... 
 Downloading packages... 
@@ -56,7 +54,6 @@ Downloading packages...
 Got dependencies!
 6 packages have newer versions incompatible with dependency constraints.
 Try `dart pub outdated` for more information.
-zsh: command not found: #
 Начинаем работу с CoinGecko API...
 
 Топ 5 криптовалют по рыночной капитализации:
