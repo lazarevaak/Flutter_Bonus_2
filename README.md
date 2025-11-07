@@ -37,6 +37,3 @@
 ```bash
 dart pub get
 dart run task.dart
-
-
-
